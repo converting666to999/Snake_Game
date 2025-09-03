@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\codes_playground\\Snake_Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4703D45C-8432-40A1-8C50-81C9832C2DFA}|Snake_Game\\Snake_Game.vcxproj|D:\\codes_playground\\Snake_Game\\Snake_Game\\Snake_Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4703D45C-8432-40A1-8C50-81C9832C2DFA}|Snake_Game\\Snake_Game.vcxproj|solutionrelative:Snake_Game\\Snake_Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Snake_Game.cpp",
+              "DocumentMoniker": "D:\\codes_playground\\Snake_Game\\Snake_Game\\Snake_Game.cpp",
+              "RelativeDocumentMoniker": "Snake_Game\\Snake_Game.cpp",
+              "ToolTip": "D:\\codes_playground\\Snake_Game\\Snake_Game\\Snake_Game.cpp",
+              "RelativeToolTip": "Snake_Game\\Snake_Game.cpp",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAABwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-31T15:48:46.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
